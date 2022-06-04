@@ -1,0 +1,3 @@
+--[[IcyTeamMods is a mod team who creates amazing mods in games]]--
+--[[Please don't repost or re script our mods this takes us hours to do it]]--
+--[[We hope you enjoy our mods!]]--
