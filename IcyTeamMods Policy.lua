@@ -1,3 +1,7 @@
---[[IcyTeamMods is a mod team who creates amazing mods in games]]--
---[[Please don't repost or re script our mods this takes us hours to do it]]--
---[[We hope you enjoy our mods!]]--
+--[[IcyTeamMods Makes Amazing Mods In Any Games]]--
+--[[Please Don't Repost Or Re Script Our Mods This Takes Us Hours To Make It]]--
+--[[When Posting In Any Social Media, Please Give Credits]]--
+--[[Warning: Please Use This Mod Carefully!]]--
+--[[We Hope You Enjoy Our Mods!]]--
+--[[Thank You For Reading Our Policy]]--
+--[[That's All, Stay Safe!]]--
